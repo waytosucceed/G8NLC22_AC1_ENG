@@ -1,5 +1,5 @@
 
-const numSlides =19; // Total number of slides
+const numSlides =18; // Total number of slides
 
 // Function to create image elements dynamically
 function createImageElements() {
